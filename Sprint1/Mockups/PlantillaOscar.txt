@@ -1,7 +1,0 @@
-Oscar Padilla Valdes
-Herramienta usada : Mockup
-
-En este sprint podemos observar tres secciones diferentes. Una de ellas contiene tres diferentes tipos de builds 
-para elegir entre Normales, Poco comunes y Pros.
-Por otro lado tambien tenemos un apartado de buscador para buscar el campeon contra el que queremos jugar.
-Y por ultimo tenemos videos tutoriales para aprender a manejar cada campeon.
